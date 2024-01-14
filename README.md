@@ -2,11 +2,14 @@
 
 ## Overview
 
-This project is a simple keystroke logger implemented in Python using the pynput library. 
+This project is a simple keylogger implemented in Python using the pynput library. 
 It captures keyboard input and sends email notifications with the logged keystrokes.
 
 **Note:** This project is intended for educational purposes only. Ensure that you comply with all 
 applicable laws and ethical standards. Do not use this project for malicious activities.
+
+#Screenshot
+![keylogger](https://github.com/Hackersentry/keylogger/assets/117862080/fed2c4d5-4161-4351-ae64-5bc80bb29732)
 
 ## Requirements
 
