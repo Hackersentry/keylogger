@@ -54,13 +54,7 @@ It captures keyboard input and sends email notifications with the logged keystro
 - Once the script is running, it will capture keystrokes and periodically send email notifications.
 - Adjust the logging frequency, email content, or encryption methods based on your preferences.
 
-## Ethical Considerations
 
-This project should only be used for educational purposes. Ensure that you respect privacy and legal boundaries. Do not use this tool for malicious activities, and be aware of the potential ethical implications.
-
-## Legal Compliance
-
-Make sure that your usage of this project complies with relevant privacy laws and regulations. Clearly state the legal implications and usage restrictions in any documentation associated with this project.
 
 ## Disclaimer
 
